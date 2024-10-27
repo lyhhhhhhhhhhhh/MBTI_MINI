@@ -1,0 +1,302 @@
+[
+  {
+    "options": [
+      {
+        "result": "I",
+        "value": "独自完成任务更有效",
+        "key": "A"
+      },
+      {
+        "result": "E",
+        "value": "与他人合作会更有动力",
+        "key": "B"
+      }
+    ],
+    "title": "在处理任务时，你通常"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "制定详细的计划",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "灵活应对不同情况",
+        "key": "B"
+      }
+    ],
+    "title": "在做决定时，你更倾向于"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "分析事情的逻辑",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "注重事情的情感因素",
+        "key": "B"
+      }
+    ],
+    "title": "你更关注"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "更关注当前的现实",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "更喜欢展望未来的可能",
+        "key": "B"
+      }
+    ],
+    "title": "你在看待生活时"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "总是准备充分",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "随机应变",
+        "key": "B"
+      }
+    ],
+    "title": "当你有一个重要任务时"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "喜欢活跃的社交生活",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "更享受独处的时光",
+        "key": "B"
+      }
+    ],
+    "title": "在社交生活中，你更偏向"
+  },
+  {
+    "options": [
+      {
+        "result": "N",
+        "value": "思考可能性的拓展",
+        "key": "A"
+      },
+      {
+        "result": "S",
+        "value": "关注细节和事实",
+        "key": "B"
+      }
+    ],
+    "title": "在思考过程中，你更喜欢"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "依靠理性分析",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "依赖直觉和情感",
+        "key": "B"
+      }
+    ],
+    "title": "当遇到问题时"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "按部就班的方式",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "探索新的可能性",
+        "key": "B"
+      }
+    ],
+    "title": "在工作方式上，你更偏好"
+  },
+  {
+    "options": [
+      {
+        "result": "P",
+        "value": "灵活多变的行事风格",
+        "key": "A"
+      },
+      {
+        "result": "J",
+        "value": "严格遵守时间表",
+        "key": "B"
+      }
+    ],
+    "title": "在时间安排上，你更倾向于"
+  },
+  {
+    "options": [
+      {
+        "result": "I",
+        "value": "喜欢自己处理任务",
+        "key": "A"
+      },
+      {
+        "result": "E",
+        "value": "与人交流分享想法",
+        "key": "B"
+      }
+    ],
+    "title": "你在处理问题时更偏好"
+  },
+  {
+    "options": [
+      {
+        "result": "N",
+        "value": "喜欢构思新的创意",
+        "key": "A"
+      },
+      {
+        "result": "S",
+        "value": "保持现有流程",
+        "key": "B"
+      }
+    ],
+    "title": "在处理项目时，你更偏向"
+  },
+  {
+    "options": [
+      {
+        "result": "F",
+        "value": "根据感受做决定",
+        "key": "A"
+      },
+      {
+        "result": "T",
+        "value": "基于逻辑做判断",
+        "key": "B"
+      }
+    ],
+    "title": "在做出决策时"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "喜欢多与人交流",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "更喜欢倾听",
+        "key": "B"
+      }
+    ],
+    "title": "在社交场合，你通常"
+  },
+  {
+    "options": [
+      {
+        "result": "J",
+        "value": "偏好井井有条的环境",
+        "key": "A"
+      },
+      {
+        "result": "P",
+        "value": "更喜欢随性自在",
+        "key": "B"
+      }
+    ],
+    "title": "你喜欢的工作环境是"
+  },
+  {
+    "options": [
+      {
+        "result": "T",
+        "value": "理性看待冲突",
+        "key": "A"
+      },
+      {
+        "result": "F",
+        "value": "情感上难以接受",
+        "key": "B"
+      }
+    ],
+    "title": "在面对冲突时"
+  },
+  {
+    "options": [
+      {
+        "result": "S",
+        "value": "按步骤执行",
+        "key": "A"
+      },
+      {
+        "result": "N",
+        "value": "寻找新的可能",
+        "key": "B"
+      }
+    ],
+    "title": "在完成任务时"
+  },
+  {
+    "options": [
+      {
+        "result": "P",
+        "value": "适应当下变化",
+        "key": "A"
+      },
+      {
+        "result": "J",
+        "value": "提前安排好日程",
+        "key": "B"
+      }
+    ],
+    "title": "在制定计划时"
+  },
+  {
+    "options": [
+      {
+        "result": "E",
+        "value": "群体活动时更有活力",
+        "key": "A"
+      },
+      {
+        "result": "I",
+        "value": "更喜欢独自活动",
+        "key": "B"
+      }
+    ],
+    "title": "你在群体活动中"
+  },
+  {
+    "options": [
+      {
+        "result": "N",
+        "value": "倾向创新思维",
+        "key": "A"
+      },
+      {
+        "result": "S",
+        "value": "关注具体细节",
+        "key": "B"
+      }
+    ],
+    "title": "在问题分析上，你更关注"
+  }
+]
